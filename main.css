@@ -1,0 +1,30 @@
+body {
+  background-color: #D3D3D3;
+}
+
+#navbar {
+  background-color: #4682b4;
+}
+
+.row {
+  margin: auto;
+}
+
+
+
+#row2card {
+  margin-right: 0;
+}
+
+#secondrowimg {
+  max-width: 400px;
+  height: 200px;
+}
+#contentcolumn {
+  max-width: 900px;
+  padding: 0;
+}
+
+#ads {
+  background-color: gray;
+}
